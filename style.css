@@ -1,20 +1,23 @@
-body { background-color: rgb(252, 186, 221);
+body { background-image: url(background2.png.png);
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
-div{
-    background-color: rgb(239, 169, 224);
-}
 
-.violet{
-    background-color: blueviolet;
-}
 
 .pink{
     background-color: pink;
 }
 
-.brown{
-    background-color: brown;
-
+nav ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
 }
+a{
+    text-decoration: none;
+}
+
+
+
+
